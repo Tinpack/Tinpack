@@ -38,12 +38,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=seu-usuario&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tinpack&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tinpack&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinpack&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="170" />
 </div>
 
 ---
