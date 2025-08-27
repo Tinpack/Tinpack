@@ -61,5 +61,5 @@
 ---
 
 <div align="center">
-  ✨ *"Code is poetry written in logic"* ✨  
+  ✨ "Turning coffee into code and logic into solutions" ✨  
 </div>
