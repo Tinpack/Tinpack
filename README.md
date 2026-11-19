@@ -1,4 +1,7 @@
-# Olá, eu sou o Pedro 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3a8a,100:7c3aed&text=Ol%C3%A1%2C%20eu%20sou%20o%20Pedro%20%F0%9F%91%8B&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn" width="100%" alt="Olá, eu sou o Pedro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Unisc;IA+%C2%B7+Recupera%C3%A7%C3%A3o+de+Informa%C3%A7%C3%A3o+%C2%B7+Dados;Bolsista+pesquisador+no+RS+Talentos;Python+%C2%B7+Rust+%C2%B7+TypeScript" alt="Typing SVG" />
+</div>
 
 Estudante de Ciência da Computação na **Unisc** (4º de 9 semestres), trabalhando com **IA, recuperação de informação, dados e automação**. Hoje sou bolsista pesquisador no programa **RS Talentos**, em um projeto com uma empresa parceira.
 
@@ -37,9 +40,24 @@ Comparação entre RPA tradicional e agentes de IA (Browser Use) para extrair da
 
 ## 🧰 Tecnologias
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,ts,js,c,react,tauri,fastapi,pytorch,sklearn,postgres,sqlite,docker,git&perline=14" alt="Tecnologias" />
+</div>
+
 - **Linguagens:** Python · Rust · TypeScript · SQL · JavaScript · C
 - **IA e dados:** scikit-learn · PyTorch · Hugging Face Transformers · sentence-transformers · LangGraph · Ollama · PostgreSQL · SQLite · Power BI
 - **Apps e automação:** React · Tauri · FastAPI · Playwright · Docker · pytest · Git
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tinpack/Tinpack/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Tinpack/Tinpack/output/github-snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+  </picture>
+</div>
 
 ---
 
@@ -49,3 +67,5 @@ Comparação entre RPA tradicional e agentes de IA (Browser Use) para extrair da
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobuchaim22@gmail.com)
 
 Português nativo · Inglês avançado (C1)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e3a8a,100:7c3aed&section=footer" width="100%" alt="" />
